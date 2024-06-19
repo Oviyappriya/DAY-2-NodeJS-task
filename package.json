@@ -1,0 +1,16 @@
+{
+  "name": "day-2-nodejs-task",
+  "version": "1.0.0",
+  "description": "About booking hall",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "express-server": "node --watch expressserver.js"
+  },
+  "type": "module",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
